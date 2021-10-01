@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @viktormauzer
+- 👀 I’m interested in Coding & Design
+- 🌱 I’m currently learning iOS Development (Swift)
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me Twitter(@theRunningMouzr)
