@@ -4,7 +4,6 @@
 - I’m interested in Coding & Design
 - I’m currently doing iOS Development (Swift, both UIKit and SwiftUI)
 - My previous work experience is Web Development and Graphic Design
-- Actively looking for a Junior iOS Development position (Remote/Relocate)
 
 ## How to reach me
 
